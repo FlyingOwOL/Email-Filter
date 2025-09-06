@@ -33,7 +33,8 @@ function filterEmails() {
                           "[LIBRARIES]", "[DIPO]",
                           "[OFFICE OF THE PRESIDENT]",
                           "[CDO]", "[OFFICE OF THE VP FOR FINANCE]",
-                          "[STRATCOM]", "[OSA]", "Recent Canvas Notifications"];
+                          "[STRATCOM]", "[OSA]", "Recent Canvas Notifications"]; 
+  //to add more phrases or keyword just add a comma and "baby your words po here" before the square bracket  
 
   for(let thread of threads){
     let messages = thread.getMessages();  
