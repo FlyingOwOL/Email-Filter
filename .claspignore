@@ -1,0 +1,25 @@
+# Dependency folders 
+node_modules/
+test/
+
+# VScode specific
+.vscode/
+
+# Config files
+.claspignore
+.clasp.json
+appsscripts.json
+jsconfig.json
+package*.json
+
+# Git files
+.git/
+.gitignore
+
+# Documentation
+README.md
+LICENSE
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
