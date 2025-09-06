@@ -15,7 +15,7 @@ https://developers.google.com/apps-script
 
 step 3:
 
-click start scripting \n
+click start scripting  
 ![alt text](image.png)
 
 Then New Project on the upper left
